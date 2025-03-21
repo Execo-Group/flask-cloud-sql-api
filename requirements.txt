@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-cors==4.0.0
+sqlalchemy==2.0.23
+python-dotenv==1.0.0
+gunicorn==21.2.0
+# psycopg2==2.9.9  # For PostgreSQL
+pymysql==1.1.0  # For MySQL
